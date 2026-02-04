@@ -46,7 +46,7 @@ To run CINEXTMA locally, follow these steps:
 1. Clone the repository:
 
 ```
-git clone https://github.com/wisnuwirayuda15/cinextma.git
+git clone https://github.com/Treonix-in/cinextma.git
 ```
 
 2. Install the dependencies:
@@ -64,20 +64,4 @@ npm run dev
 
 4. Open your browser and visit `http://localhost:3000` to access the CINEXTMA application.
 
-## Contributing
 
-Contributions to CINEXTMA are welcome! If you'd like to contribute, please refer to the [CONTRIBUTING](CONTRIBUTING.md) file for guidelines and instructions.
-
-## License
-
-CINEXTMA is licensed under the [MIT License](LICENSE). This means you are free to use, modify, and distribute the application, as long as you include the original copyright and license notice in your work.
-
-## Star History
-
-<a href="https://www.star-history.com/#wisnuwirayuda15/cinextma&Timeline">
- <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=wisnuwirayuda15/cinextma&type=Timeline&theme=dark" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=wisnuwirayuda15/cinextma&type=Timeline" />
-   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=wisnuwirayuda15/cinextma&type=Timeline" />
- </picture>
-</a>
